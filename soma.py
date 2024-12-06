@@ -7,3 +7,5 @@ resultado = num1 + num2
 
 # Exibir o resultado: 
 print (f"A soma de {num1} e {num2} é {resultado}.")
+
+print ("ola mundo")
